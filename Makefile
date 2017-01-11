@@ -1,3 +1,3 @@
 default:
-	cargo test
-	cargo bench
+	cargo test --verbose
+	cargo bench --verbose
